@@ -11,7 +11,6 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
   1. [General Questions](#general-questions)
   1. [Network Questions](#network-questions)
   1. [Linux Questions](#linux-questions)
-  1. [Windows Questions](#windows-questions)
   1. [Security Questions](#security-questions)
   1. [Cloud Questions](#cloud-questions)
   1. [Architecture Questions](#architecture-questions)
@@ -62,11 +61,6 @@ Inspired by [Front-end-Developers-Interview-Questions](https://github.com/h5bp/F
 * How to view running processes in Linux?
 * How to check DNS records in Linux?
 * Describe your experience with scripting
-
-#### Windows Questions
-
-* Are you familiar with just linux or have you worked with Windows environments as well?
-  * If yes to windows do you use powershell? Octopus Deploy? TeamCity? Active Directory? Azure?
 
 #### Security Questions
 
